@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nanEC</string>
+    <string name="web_client_id">584681264783-d0tf7talu11t45s2q7di7sbra6b5vgkq.apps.googleusercontent.com</string>
+    <string name="google_maps_api_key">AIzaSyAxGi4EUGvt5lVZk3lI3GMlvdGsiYeaxdE</string>
+</resources>
